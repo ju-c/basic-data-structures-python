@@ -29,11 +29,11 @@ Basic data structures:
 [Graphs 101 - Implementation in Python](https://levelup.gitconnected.com/graphs-101-67581c17178d)  
 [Python Patterns - Implementing Graphs](https://www.python.org/doc/essays/graphs/)  
 [Collections - Deque Objects](https://docs.python.org/3/library/collections.html#collections.deque)  
-**Linked List**  
+**Linked List:**  
 [Linked Lists in Python: An Introduction](https://realpython.com/linked-lists-python/)  
-**Hash Table**
+**Hash Table:**  
 [Build a Hash Table in Python With Test-Driven Development(TDD)](https://realpython.com/python-hash-table/)  
-**Stack & Queue**  
+**Stack & Queue:**  
 [Using lists as queues](https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues)  
 [Using lists as stacks](https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks)
 
